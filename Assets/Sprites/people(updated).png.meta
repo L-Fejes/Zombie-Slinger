@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 764b21730d2c35047884c3411272e05e
+timeCreated: 1478049058
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: people(updated)_0
+    21300002: people(updated)_1
+    21300004: people(updated)_2
+    21300006: people(updated)_3
+    21300008: people(updated)_4
+    21300010: people(updated)_5
+    21300012: people(updated)_6
+    21300014: people(updated)_7
+    21300016: people(updated)_8
+    21300018: people(updated)_9
+    21300020: people(updated)_10
+    21300022: people(updated)_11
+    21300024: people(updated)_12
+    21300026: people(updated)_13
+    21300028: people(updated)_14
+    21300030: people(updated)_15
+    21300032: people(updated)_16
+    21300034: people(updated)_17
+    21300036: people(updated)_18
+    21300038: people(updated)_19
+    21300040: people(updated)_20
+    21300042: people(updated)_21
+    21300044: people(updated)_22
+    21300046: people(updated)_23
+    21300048: people(updated)_24
+    21300050: people(updated)_25
+    21300052: people(updated)_26
+    21300054: people(updated)_27
+    21300056: people(updated)_28
+    21300058: people(updated)_29
+    21300060: people(updated)_30
+    21300062: people(updated)_31
+    21300064: people(updated)_32
+    21300066: people(updated)_33
+    21300068: people(updated)_34
+    21300070: people(updated)_35
+    21300072: people(updated)_36
+    21300074: people(updated)_37
+    21300076: people(updated)_38
+    21300078: people(updated)_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: people(updated)_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 808
+        width: 119
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 808
+        width: 112
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 809
+        width: 102
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 810
+        width: 114
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 804
+        width: 149
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 806
+        width: 119
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 806
+        width: 112
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_7
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 807
+        width: 102
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_8
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 808
+        width: 114
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_9
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 802
+        width: 149
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 530
+        width: 143
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 528
+        width: 139
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 533
+        width: 142
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 519
+        width: 129
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 518
+        width: 107
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 528
+        width: 143
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_16
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 526
+        width: 139
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_17
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 531
+        width: 143
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_18
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 517
+        width: 130
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_19
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 517
+        width: 109
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 283
+        width: 106
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 290
+        width: 115
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 292
+        width: 131
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 291
+        width: 111
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_24
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 289
+        width: 117
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 274
+        width: 108
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_26
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 281
+        width: 118
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_27
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 283
+        width: 131
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_28
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 282
+        width: 116
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_29
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 280
+        width: 117
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 154
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 21
+        width: 125
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 11
+        width: 127
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 117
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_34
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 3
+        width: 126
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_35
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 14
+        width: 154
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_36
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 12
+        width: 124
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_37
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2
+        width: 127
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_38
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1
+        width: 117
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: people(updated)_39
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 0
+        width: 126
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

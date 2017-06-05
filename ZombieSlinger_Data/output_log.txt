@@ -1,0 +1,51 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3037 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.120 seconds
+Platform assembly: C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\GameDev\_Projects\Zombie Slinger\ZombieSlinger_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.399706 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.664107 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.152099 ms (FindLiveObjects: 0.010271 ms CreateObjectMapping: 0.013432 ms MarkObjects: 0.104296 ms  DeleteObjects: 0.023703 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.341729 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 1.426570 ms (FindLiveObjects: 0.028444 ms CreateObjectMapping: 0.024888 ms MarkObjects: 0.147753 ms  DeleteObjects: 1.224693 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367408 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 437.
+Total: 0.285235 ms (FindLiveObjects: 0.047012 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.181728 ms  DeleteObjects: 0.027259 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.581927 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 437.
+Total: 0.287210 ms (FindLiveObjects: 0.039506 ms CreateObjectMapping: 0.014617 ms MarkObjects: 0.229531 ms  DeleteObjects: 0.003160 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1578 -> priority: 1 
+  Thread -> id: 1f94 -> priority: 1 

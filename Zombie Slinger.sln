@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{16DBD477-2F4E-E925-780D-4D10A1FFAC29}") = "Zombie Slinger", "Assembly-CSharp.csproj", "{77316356-F16C-42F0-BB55-49C68B2E0609}"
+EndProject
+Project("{16DBD477-2F4E-E925-780D-4D10A1FFAC29}") = "Zombie Slinger", "Assembly-CSharp-Editor.csproj", "{BF948E56-0619-6B6A-2943-81640292EE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77316356-F16C-42F0-BB55-49C68B2E0609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77316356-F16C-42F0-BB55-49C68B2E0609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77316356-F16C-42F0-BB55-49C68B2E0609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77316356-F16C-42F0-BB55-49C68B2E0609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF948E56-0619-6B6A-2943-81640292EE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF948E56-0619-6B6A-2943-81640292EE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF948E56-0619-6B6A-2943-81640292EE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF948E56-0619-6B6A-2943-81640292EE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
